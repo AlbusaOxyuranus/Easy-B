@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2011
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy-B", "Easy-B\Easy-B.csproj", "{35E2C3DB-54B8-4DC3-96FC-CACBB59C0A66}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy-B.DesktopApp", "Easy-B\Easy-B.DesktopApp.csproj", "{35E2C3DB-54B8-4DC3-96FC-CACBB59C0A66}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
