@@ -10,7 +10,7 @@ using System.Windows;
 [assembly: AssemblyTitle("Easy-B")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("X-Cyber Solutions")]
 [assembly: AssemblyProduct("Easy-B")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
