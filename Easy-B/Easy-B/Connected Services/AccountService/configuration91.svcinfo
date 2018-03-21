@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<SavedWcfConfigurationInformation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="9.1" CheckSum="srLDWGZVp5UCmx7l3r6rI93rHSQ=">
+<SavedWcfConfigurationInformation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="9.1" CheckSum="6FbZbzFY88ijzkCiZEBNHAWdY7Q=">
   <bindingConfigurations>
     <bindingConfiguration bindingType="basicHttpBinding" name="BasicHttpBinding_IAccountService">
       <properties>
@@ -112,10 +112,10 @@
     </bindingConfiguration>
   </bindingConfigurations>
   <endpoints>
-    <endpoint name="BasicHttpBinding_IAccountService" contract="AccountService.IAccountService" bindingType="basicHttpBinding" address="http://localhost:2412/AccountService.svc" bindingConfiguration="BasicHttpBinding_IAccountService">
+    <endpoint name="BasicHttpBinding_IAccountService" contract="AccountService.IAccountService" bindingType="basicHttpBinding" address="http://ebs.xcs.by/AccountService.svc" bindingConfiguration="BasicHttpBinding_IAccountService">
       <properties>
         <property path="/address" isComplexType="false" isExplicitlyDefined="true" clrType="System.Uri, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          <serializedValue>http://localhost:2412/AccountService.svc</serializedValue>
+          <serializedValue>http://ebs.xcs.by/AccountService.svc</serializedValue>
         </property>
         <property path="/behaviorConfiguration" isComplexType="false" isExplicitlyDefined="false" clrType="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
           <serializedValue />

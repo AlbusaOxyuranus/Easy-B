@@ -19,12 +19,12 @@
     <ServiceContractMappings />
   </ClientOptions>
   <MetadataSources>
-    <MetadataSource Address="http://localhost:2412/AccountService.svc" Protocol="http" SourceId="1" />
+    <MetadataSource Address="http://ebs.xcs.by/AccountService.svc" Protocol="http" SourceId="1" />
   </MetadataSources>
   <Metadata>
-    <MetadataFile FileName="AccountService.xsd" MetadataType="Schema" ID="adac62dc-ea78-4eab-b202-e3d2aba3dd70" SourceId="1" SourceUrl="http://localhost:2412/AccountService.svc?xsd=xsd0" />
-    <MetadataFile FileName="AccountService.wsdl" MetadataType="Wsdl" ID="a2707ee3-262f-47e2-91de-9867a063aeda" SourceId="1" SourceUrl="http://localhost:2412/AccountService.svc?wsdl" />
-    <MetadataFile FileName="AccountService.disco" MetadataType="Disco" ID="5c9a215f-897e-465e-adf3-ab34cb674e6b" SourceId="1" SourceUrl="http://localhost:2412/AccountService.svc?disco" />
+    <MetadataFile FileName="AccountService1.wsdl" MetadataType="Wsdl" ID="2ed3ab25-1441-4042-80d7-830b6f88afe8" SourceId="1" SourceUrl="http://ebs.xcs.by/AccountService.svc?wsdl" />
+    <MetadataFile FileName="AccountService1.xsd" MetadataType="Schema" ID="726792b5-3ab3-4d2f-9242-21a0641414a9" SourceId="1" SourceUrl="http://ebs.xcs.by/AccountService.svc?xsd=xsd0" />
+    <MetadataFile FileName="AccountService1.disco" MetadataType="Disco" ID="1ad81a3f-3d47-4b71-a1db-be96cd5de83d" SourceId="1" SourceUrl="http://ebs.xcs.by/AccountService.svc?disco" />
   </Metadata>
   <Extensions>
     <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
