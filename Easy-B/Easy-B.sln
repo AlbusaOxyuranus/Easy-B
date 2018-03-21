@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 15.0.27428.2011
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy-B.DesktopApp", "Easy-B\Easy-B.DesktopApp.csproj", "{35E2C3DB-54B8-4DC3-96FC-CACBB59C0A66}"
+	ProjectSection(ProjectDependencies) = postProject
+		{9C80D847-8DAC-4FA8-8638-08A2FD3D145E} = {9C80D847-8DAC-4FA8-8638-08A2FD3D145E}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy-B.Service", "Easy-B.Service\Easy-B.Service.csproj", "{9C80D847-8DAC-4FA8-8638-08A2FD3D145E}"
 EndProject

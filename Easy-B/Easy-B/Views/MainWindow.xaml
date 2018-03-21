@@ -6,6 +6,6 @@
         mc:Ignorable="d"
         Title="Easy-B" Height="450" Width="800">
     <Grid>
-        
+        <Frame Source="Account/AccountPage.xaml"></Frame>
     </Grid>
 </Window>
